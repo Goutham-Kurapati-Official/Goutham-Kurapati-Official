@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Goutham Kurapati</h1>
 <h3 align="center">Problem Solver | Codaholic | UI/UX Designer | Web Developer | Data Scientist | VIT,Vellore</h3>
 
+- 📫 How to reach me **gouthamkurapati@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
