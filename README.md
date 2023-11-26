@@ -13,5 +13,6 @@
 </p>
 
 <h3 align="left">Contact</h3>
-- 📧 **gouthamkurapati@gmail.com**
+
+- 📧 **gouthamkurapati@gmail.com** <br>
 - 🔗 **www.linkedin.com/in/goutham-kurapati**
