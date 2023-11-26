@@ -8,7 +8,7 @@
 </p>
 
 <h3 align="left">About Me</h3>
-<p>
+<p style="text-align: justify">
 🚀 Being passionate programmer with a knack for problem-solving and a relentless drive for continuous learning, equipped with a strong foundation in various programming languages like Python, C++, and Java. I thrive in challenging environments that push the boundaries of innovation. 
 
 🌟I always look forward to unleash my creativity to design and develop systems that are user-friendly and highly functional as well. Having experience working on Graphic Design and UI/UX Design at various occasions, I can create intuitive and engaging digital experiences.
