@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Goutham Kurapati</h1>
 <h3 align="center">Problem Solver | Data Scientist | ML Engineer | UI/UX Designer | Web Developer</h3>
 
-- 📫 How to reach me **gouthamkurapati@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
 <h3 align="left">About Me</h3>
 <p style="text-align: justify">
 🚀 Being passionate programmer with a knack for problem-solving and a relentless drive for continuous learning, equipped with a strong foundation in various programming languages like Python, C++, and Java. I thrive in challenging environments that push the boundaries of innovation. 
@@ -17,3 +11,7 @@
 
 📊 Passionate and driven Data Science Engineering student with a strong foundation in data analysis, machine learning, and statistical modeling. Eager to apply my knowledge and skills to real-world challenges, I am dedicated to leveraging data-driven insights to make informed decisions and drive meaningful outcomes.
 </p>
+
+
+- 📧 **gouthamkurapati@gmail.com**
+- 🔗 **www.linkedin.com/in/goutham-kurapati**
