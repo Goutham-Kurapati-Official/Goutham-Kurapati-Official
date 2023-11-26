@@ -12,6 +12,6 @@
 📊 Passionate and driven Data Science Engineering student with a strong foundation in data analysis, machine learning, and statistical modeling. Eager to apply my knowledge and skills to real-world challenges, I am dedicated to leveraging data-driven insights to make informed decisions and drive meaningful outcomes.
 </p>
 
-
+<h3 align="left">Contact</h3>
 - 📧 **gouthamkurapati@gmail.com**
 - 🔗 **www.linkedin.com/in/goutham-kurapati**
