@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Goutham Kurapati</h1>
-<h3 align="center">Problem Solver | UI/UX Designer | Web Developer Data Scientist | ML Engineer</h3>
+<h3 align="center">Problem Solver | UI/UX Designer | Web Developer | Data Scientist | ML Engineer</h3>
 
 <h3 align="left">About Me</h3>
 <p style="text-align: justify">
