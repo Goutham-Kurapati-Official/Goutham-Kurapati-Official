@@ -37,10 +37,6 @@
 [![](https://visitcount.itsvg.in/api?id=gouthamkurapati13&icon=4&color=12)](https://visitcount.itsvg.in)
 
 
-# My Holopin Badges
-
-[![An image of @gokulanithanandakumar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gokulanithanandakumar)](https://holopin.io/@gouthamkurapati13)
-
 <h3 align="left">Contact</h3>
 
 - 📧 **gouthamkurapati@gmail.com** <br>
