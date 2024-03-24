@@ -30,13 +30,6 @@
 
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=gouthamkurapati13&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=gouthamkurapati13&icon=4&color=12)](https://visitcount.itsvg.in)
-
-
 <h3 align="left">Contact</h3>
 
 - 📧 **gouthamkurapati@gmail.com** <br>
